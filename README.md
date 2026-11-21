@@ -124,7 +124,7 @@ PromptCore/
 | | |
 |:---:|:---:|
 | 👤 **تطوير** | **Abu Kasim** |
-| 🐙 **جيت هاب** | [github.com/abukasim0](https://github.com/abukasim0) |
+| 🐙 **جيت هاب** | [github.com/Abu-Kasim](https://github.com/Abu-Kasim) |
 | 📢 **قناة التليجرام** | [t.me/programs_edditing](https://t.me/programs_edditing) |
 | 🌐 **المدونة الرسمية** | [filefreesy.blogspot.com](https://filefreesy.blogspot.com) |
 | 🔗 **كافة الروابط** | [linktr.ee/abukasim](https://linktr.ee/abukasim) |
@@ -136,7 +136,7 @@ PromptCore/
 
 ## 📄 الترخيص
 
-© 2026 **Abu Kasim** — جميع الحقوق محفوظة. للاستخدام أو إعادة النشر، [تواصل معي مباشرة](https://t.me/Abu_Kasim).
+© 2026 **Abu Kasim** — للاستخدام أو إعادة النشر [تواصل معي مباشرة](https://t.me/Abu_Kasim)
 
 ---
 
@@ -150,4 +150,4 @@ offline, Arabic/English UI with dark & light themes.
 
 - **Download:** grab the standalone `PromptCore.exe` from [Releases](../../releases) (no runtime needed)
 - **Build:** `dotnet test` then `dotnet run --project src/PromptCore.UI`
-- **Developer:** [Abu Kasim](https://linktr.ee/abukasim) · [GitHub](https://github.com/abukasim0) · [Telegram](https://t.me/Abu_Kasim)
+- **Developer:** [Abu Kasim](https://linktr.ee/abukasim) · [GitHub](https://github.com/Abu-Kasim) · [Telegram](https://t.me/Abu_Kasim)
