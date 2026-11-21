@@ -66,7 +66,7 @@
 ## 🛠️ البناء من المصدر
 
 ```bash
-git clone https://github.com/abukasim0/PromptCore.git
+git clone https://github.com/Abu-Kasim/PromptCore.git
 cd PromptCore
 
 dotnet test                                # 37 اختباراً
